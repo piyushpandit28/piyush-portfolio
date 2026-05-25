@@ -5,7 +5,7 @@ import { useState } from "react"
 import { Menu, X, Home } from "lucide-react"
 
 const navLinks = [
-  { label: "Resume", href: "https://drive.google.com/file/d/1F3AKw-OtURwEa3A8Yva9YhsMvIfQeVJ5/view", icon: "📄" },
+  { label: "Resume", href: "https://drive.google.com/file/d/1hVNQKo1EzRjt7iUxkucXDAcKIFMhMSxq/view?usp=sharing", icon: "📄" },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/piyush-pandit28/", icon: "💼" },
   { label: "Email", href: "mailto:panditpiyush2005@gmail.com", icon: "✉️" },
   { label: "WhatsApp", href: "https://wa.me/919766026491", icon: "💬" },
